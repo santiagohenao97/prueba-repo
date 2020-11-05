@@ -31,7 +31,7 @@ export default class App extends React.Component {
       <div className="App">
         <ul>
           {items.map((item) => (
-            <li key={item.id}>Name: {item.name}</li>
+            <li key={item.id}>Nameeeeeee: {item.name}</li>
           ))}
         </ul>
       </div>
